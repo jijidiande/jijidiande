@@ -5,7 +5,6 @@
 - 👯 You can get in contact with me via "jijidiande@Gmail.com" and my LinkedIn profile is "https://www.linkedin.com/in/zhanqian-zhang-2419071ba/".
 - 🤔 My main area of focus is Devops.
 - ⚡ My skills include:Docker,Kubernetes,CI/CD,Shell,Python,Go,C/C++,Linux,cloud-native.
-- 
 <!--
 **jijidiande/jijidiande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
